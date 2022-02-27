@@ -1,4 +1,5 @@
 RED energy ccoding challenge - NEM12 meter reader file validator
+================================================================
 
 Author - Tennakoon Arachchige Damith Suranga Tennakoon
 
