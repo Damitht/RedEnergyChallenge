@@ -1,0 +1,15 @@
+au/com/redchallenge/validate/ValidationChainMeterRecordCheck.class
+au/com/redchallenge/process/TestHarness.class
+au/com/redchallenge/process/SimpleNem12ParserImpl.class
+au/com/redchallenge/process/SimpleNem12Parser.class
+au/com/redchallenge/validate/ValidationContext.class
+au/com/redchallenge/domain/MeterVolume.class
+au/com/redchallenge/constants/FileConstants.class
+au/com/redchallenge/constants/FileConstants$FileRowIndicators.class
+au/com/redchallenge/domain/Quality.class
+au/com/redchallenge/constants/FileConstants$recordColumnSize.class
+au/com/redchallenge/validate/ValidationErrorCause.class
+au/com/redchallenge/validate/ValidationChain.class
+au/com/redchallenge/domain/MeterRead.class
+au/com/redchallenge/validate/ValidationChainFileFormatCheck.class
+au/com/redchallenge/domain/EnergyUnit.class
