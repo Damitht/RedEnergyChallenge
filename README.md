@@ -15,7 +15,9 @@ Pre-requisites
 How to build
 ============
 Goto the project directory simplenem12 and type
- mvn clean package
+ 
+mvn clean package
+
 Test cases are attached to maven an will run automatically
 
 How to run
@@ -23,12 +25,14 @@ How to run
 Goto classes folder
  simplenem12/target/classes
 Type command below
- java au.com.redchallenge.process.TestHarness ./SimpleNem12.csv
+
+java au.com.redchallenge.process.TestHarness ./SimpleNem12.csv
 
  How to run tests only
  =====================
  Goto the project directory simplenem12 and type
-  mvn test
+ 
+ mvn test
 
  Following test cases have been covered
  ======================================
